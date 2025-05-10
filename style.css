@@ -1,0 +1,42 @@
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Ruge Boogie";
+    font-size: 70px;
+    color: #FFFFFF;
+    text-shadow: #000000 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    background: linear-gradient(270deg, #4af00a, #ffffff, #e88b0b);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 9s ease infinite;
+    -moz-animation: AnimationName 9s ease infinite;
+    animation: AnimationName 9s ease infinite;
+    
+
+}
+
+
+@-webkit-keyframes AnimationName {
+0%{background-position:0% 48%}
+50%{background-position:100% 53%}
+100%{background-position:0% 48%}
+}
+@-moz-keyframes AnimationName {
+0%{background-position:0% 48%}
+50%{background-position:100% 53%}
+100%{background-position:0% 48%}
+}
+@keyframes AnimationName {
+0%{background-position:0% 48%}
+50%{background-position:100% 53%}
+100%{background-position:0% 48%}
+}
