@@ -1,6 +1,6 @@
 Hey 👋 What's up
 
-WEB-Link: [ttps://day-16-call-back-hell-task.netlify.app](https://hilarious-salmiakki-48e421.netlify.app/)
+WEB-Link: [hilarious-salmiakki-48e421.netlify.app](https://hilarious-salmiakki-48e421.netlify.app/)
 
 
 About 
